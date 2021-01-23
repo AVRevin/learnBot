@@ -1,0 +1,88 @@
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.exe
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csprojAssemblyReference.cache
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfoInputs.cache
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfo.cs
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.deps.json
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.json
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.dev.json
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CopyComplete
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\DobbiKov\source\repos\learnTelegramBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.genruntimeconfig.cache
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.exe
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.deps.json
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.json
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.dev.json
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csprojAssemblyReference.cache
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfo.cs
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CopyComplete
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\DD-telegramSharpBot-master\DD-telegramSharpBot-master\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.genruntimeconfig.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.exe
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.deps.json
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.json
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.dev.json
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csprojAssemblyReference.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfo.cs
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CopyComplete
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.genruntimeconfig.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.exe
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.deps.json
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.json
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.dev.json
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csprojAssemblyReference.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfo.cs
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CopyComplete
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.genruntimeconfig.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csprojAssemblyReference.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfo.cs
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\рабочие бот сделанный через консоль\DD-telegramSharpBot-master\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.exe
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.deps.json
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.json
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.runtimeconfig.dev.json
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\AngleSharp.dll
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csprojAssemblyReference.cache
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.AssemblyInfo.cs
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.csproj.CopyComplete
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.dll
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.pdb
+C:\Users\user\Desktop\avito\learnBot\learnTelegramBot\obj\Debug\netcoreapp3.1\learnTelegramBot.genruntimeconfig.cache
